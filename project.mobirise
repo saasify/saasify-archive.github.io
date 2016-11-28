@@ -120,7 +120,7 @@
           },
           "title": "START &gt; SCALE &gt; SUSTAIN",
           "text": "Marketing playbook for growth in the as-a-service economy.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"cmo-services.html\" data-toolbar=\"-mbrBtnMove\">CMO SERVICES</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"marketing-as-a-service.html\" data-toolbar=\"-mbrBtnMove\">MARKETING-AS-A-SERVICE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"cmo-services.html\" data-toolbar=\"-mbrBtnMove\">CMO SERVICES</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"marketing-as-a-service.html\" data-toolbar=\"-mbrBtnMove\">MARKETING-AS-A-SERVICE</a>"
         },
         {
           "_inherit": "msg-box3",
@@ -541,7 +541,7 @@
           },
           "title": "Boards &amp; Executive Teams:",
           "text": "Fuel growth with a CMO partner on-demand.<br>[flat fee by service]",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">LET'S DO IT TOGETHER !</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">LET'S DO IT TOGETHER !</a> "
         },
         {
           "_tags": [
@@ -1874,7 +1874,7 @@
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-2a",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"cmo-services.html\" data-toolbar=\"-mbrBtnMove\">CMO SERVICES</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"marketing-as-a-service.html\" data-toolbar=\"-mbrBtnMove\">MARKETING-AS-A-SERVICE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"cmo-services.html\" data-toolbar=\"-mbrBtnMove\">CMO SERVICES</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"marketing-as-a-service.html\" data-toolbar=\"-mbrBtnMove\">MARKETING-AS-A-SERVICE</a>"
         },
         {
           "_tags": [
@@ -2831,7 +2831,7 @@
           "title": "MARKETING-AS-A-SERVICE",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Constituents are ready for your programs. Do you have know-how and resources to convert? Go from strategy to execution to tap the right digital &amp; offline channels with content and campaigns that engage constituents! We will provide full-service to integrate every step:</p><p><b>Strategize</b> &gt; <i>align</i> markets/programs, <i>build</i> value propositions and messages</p><p><b>Plan</b> &gt; <i>create</i> content and campaign tactics, <i>decide</i> budgets and metrics</p><p><b>Orchestrate</b> &gt; <i>engage</i> constituents via digital and offline campaigns</p><p><b>Track</b> &gt; <i>follow</i> execution and performance with actionable analytics</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"marketing-as-a-service.html\" data-toolbar=\"-mbrBtnMove\">SEE MARKETING-AS-A-SERVICE</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"marketing-as-a-service.html\" data-toolbar=\"-mbrBtnMove\">SEE MARKETING-AS-A-SERVICE</a>"
         },
         {
           "_tags": [
@@ -3167,7 +3167,7 @@
           "title": "MARKETING-AS-A-SERVICE",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Market is ready for your products. Do you have marketing know-how and resources to convert? Go from strategy to execution to tap the right digital &amp; offline channels with content and campaigns that engage customers! We will provide full-service to integrate every step:</p><p><b>Strategize</b> &gt; <i>align</i> markets/products, <i>build</i> value propositions and messages</p><p><b>Plan</b> &gt; <i>create</i> content and campaign tactics, <i>decide</i> budgets and metrics</p><p><b>Orchestrate</b> &gt; <i>engage</i> customers via digital and offline campaigns</p><p><b>Track</b> &gt; <i>follow</i> execution and performance with actionable analytics</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"marketing-as-a-service.html\" data-toolbar=\"-mbrBtnMove\">SEE MARKETING-AS-A-SERVICE</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"marketing-as-a-service.html\" data-toolbar=\"-mbrBtnMove\">SEE MARKETING-AS-A-SERVICE</a>"
         },
         {
           "_tags": [
