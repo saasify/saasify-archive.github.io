@@ -1717,6 +1717,9 @@ html {
   font-size: 250px; /* ~ image.height */
   text-decoration:none;
 }
+h3 {
+	color:black;
+}
 .engine {
 	position: absolute;
 	text-indent: -2400px;

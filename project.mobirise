@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 81,
+    "uniqCompNum": 93,
     "versionPublish": "3.9.2",
     "favicon": "@PROJECT_PATH@/assets/images/saasify-symbol-black-crop.png",
     "noImageResize": "true",
@@ -88,47 +88,39 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MARKETING</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about_purpose.html\">Purpose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about_people.html\">People</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cmo-services.html\">CMO Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"marketing-as-a-service.html\">Marketing-As-A-Service</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">CLIENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"startups.html\">Startups</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"non-profits.html\">Non-Profits</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Marketing</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about_purpose.html\">Purpose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about_people.html\">People</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cmo-services.html\">CMO Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"marketing-as-a-service.html\">Marketing-As-A-Service</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CLIENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"startups.html\">Startups</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"non-profits.html\">Non-Profits</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
         },
         {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_inherit": "header1",
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            },
-            "H1": {
-              "color": "#ffffff",
-              "font-size": "36px"
-            }
-          },
-          "_anchor": "header1-1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-2k",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/business-growth-2000x1500-98.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/business-growth-resize.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "contentAlign": "left",
+            "contentAlign": "center",
             "overlay": true,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#212121",
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
             "showButtons": true,
             "showArrow": true
           },
           "title": "START &gt; SCALE &gt; SUSTAIN",
-          "text": "Marketing playbook for the \"as-a-service\" economy.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">LET'S TALK !</a> "
+          "text": "Marketing playbook for growth in the as-a-service economy.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"cmo-services.html\" data-toolbar=\"-mbrBtnMove\">CMO SERVICES</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"marketing-as-a-service.html\" data-toolbar=\"-mbrBtnMove\">MARKETING-AS-A-SERVICE</a>"
         },
         {
           "_inherit": "msg-box3",
@@ -177,7 +169,7 @@
           },
           "title": "ABOUT SAASIFY.IO",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><b>SaaSify.io</b> empowers small to mid-size organizations to start, scale and sustain marketing to fuel growth. We provide CMO Services and Marketing-as-a-Service with a systems approach to connect strategy to execution for predictable outcomes. Our software-and-a-service model blends smart apps and modern practices to orchestrate content and communications across digital and traditional channels to build brands, market position, and sales.</p><p>Organizations rely on marketing for <i>effective</i> strategies to achieve business goals and <i>efficient</i> execution to generate returns. We solve problems that stand in the way:</p><ol><li>strategy not aligned to business</li><li>programs don’t support strategy </li><li>tactics disjointed or under-leverage digital</li></ol>",
+          "text": "<p><b>SaaSify.io</b> empowers small to mid-size organizations to start, scale and sustain marketing to fuel growth. We provide CMO Services and Marketing-as-a-Service with a systems approach to connect strategy to execution for predictable outcomes. Our software-and-a-service model blends smart apps and modern practices to orchestrate content and communications across digital and traditional channels to build brands, market position, and sales.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -449,14 +441,14 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "©&nbsp;2016 SAASIFY LLC. All rights reserved."
+          "text": "©&nbsp;2016 SAASIFY LLC. All rights reserved.<br>"
         }
       ]
     },
     "cmo-services.html": {
       "settings": {
         "title": "SOLUTIONS > CMO Services",
-        "order": 6
+        "order": 4
       },
       "components": [
         {
@@ -517,8 +509,8 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MARKETING</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about_purpose.html\">Purpose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about_people.html\">People</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cmo-services.html\">CMO Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"marketing-as-a-service.html\">Marketing-As-A-Service</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">CLIENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"startups.html\">Startups</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"non-profits.html\">Non-Profits</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Marketing</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about_purpose.html\">Purpose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about_people.html\">People</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cmo-services.html\">CMO Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"marketing-as-a-service.html\">Marketing-As-A-Service</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CLIENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"startups.html\">Startups</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"non-profits.html\">Non-Profits</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
         },
         {
           "_inherit": "header1",
@@ -531,7 +523,7 @@
           "_params": {
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/chief-marketing-officer-2000x1333-36.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/chief-marketing-officer-resize-1.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -549,7 +541,7 @@
           },
           "title": "Boards &amp; Executive Teams:",
           "text": "Fuel growth with a CMO partner on-demand.<br>[flat fee by service]",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">LET'S DO IT TOGETHER !</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"contact.html\" data-toolbar=\"-mbrBtnMove\">LET'S DO IT TOGETHER !</a> "
         },
         {
           "_tags": [
@@ -586,7 +578,7 @@
             "showImages": true,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": true
+            "showButtons": false
           },
           "headerAlign": "left",
           "header": "CMO SERVICES BY MARKETING OBJECTIVE",
@@ -768,7 +760,7 @@
             "showImages": false,
             "showTitles": true,
             "showCaptions": true,
-            "showButtons": true
+            "showButtons": false
           },
           "headerAlign": "left",
           "header": "CMO SERVICES TO BUILD CAPABILITY",
@@ -992,14 +984,14 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "©&nbsp;2016 SAASIFY LLC. All rights reserved."
+          "text": "©&nbsp;2016 SAASIFY LLC. All rights reserved.<br>"
         }
       ]
     },
     "contact.html": {
       "settings": {
         "title": "ABOUT > Purpose",
-        "order": 10
+        "order": 9
       },
       "components": [
         {
@@ -1060,8 +1052,8 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MARKETING</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about_purpose.html\">Purpose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about_people.html\">People</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cmo-services.html\">CMO Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"marketing-as-a-service.html\">Marketing-As-A-Service</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">CLIENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"startups.html\">Startups</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"non-profits.html\">Non-Profits</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Marketing</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about_purpose.html\">Purpose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about_people.html\">People</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cmo-services.html\">CMO Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"marketing-as-a-service.html\">Marketing-As-A-Service</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CLIENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"startups.html\">Startups</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"non-profits.html\">Non-Profits</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
         },
         {
           "_tags": [
@@ -1215,14 +1207,14 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "©&nbsp;2016 SAASIFY LLC. All rights reserved."
+          "text": "©&nbsp;2016 SAASIFY LLC. All rights reserved.<br>"
         }
       ]
     },
     "marketing-as-a-service.html": {
       "settings": {
         "title": "SOLUTIONS > Marketing-as-a-Service",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -1297,7 +1289,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/orchestrate-marketing-2000x1500-28.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/orchestrate-marketing-resize.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1596,7 +1588,7 @@
     "about_purpose.html": {
       "settings": {
         "title": "ABOUT > Purpose",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -1657,8 +1649,8 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MARKETING</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about_purpose.html\">Purpose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about_people.html\">People</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cmo-services.html\">CMO Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"marketing-as-a-service.html\">Marketing-As-A-Service</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">CLIENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"startups.html\">Startups</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"non-profits.html\">Non-Profits</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Marketing</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about_purpose.html\">Purpose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about_people.html\">People</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cmo-services.html\">CMO Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"marketing-as-a-service.html\">Marketing-As-A-Service</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CLIENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"startups.html\">Startups</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"non-profits.html\">Non-Profits</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
         },
         {
           "_inherit": "msg-box3",
@@ -1708,7 +1700,7 @@
           },
           "title": "OUR STORY",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<blockquote>“Business enterprise has two–and only two–basic functions: marketing &amp; innovation.”</blockquote><p>Small to Mid-size Organizations, particularly startups and non-profits, innovate products/programs with purpose. We founded SaaSify.io with a passion to be your marketing half. Our integrated marketing on-demand scales with you to help you succeed in the as-a-service economy: grow rapidly by embracing SaaS models AND leverage SaaS apps to fortify marketing.</p>",
+          "text": "<blockquote>“Business enterprise has two–and only two–basic functions: marketing &amp; innovation.”</blockquote><p>Small to Mid-size Organizations, particularly startups and non-profits, innovate products/programs with purpose. We founded SaaSify.io with a passion to be your marketing half. Our integrated marketing on-demand scales with you to help you succeed in the as-a-service economy: grow rapidly by embracing SaaS models AND leverage SaaS apps to fortify marketing.</p><p>Organizations rely on marketing for effective strategies to achieve goals and <i>efficient</i> execution to generate returns. We solve problems that stand in the way:</p><ul><li>strategy not aligned to business</li><li>programs don’t support strategy</li><li>tactics disjointed or under-leverage digital</li></ul>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
@@ -1793,7 +1785,7 @@
             }
           },
           "title2": "GET MARKETING DONE",
-          "caption2": "Consultants &amp; Agencies offer blocks of advise and services. We connect these top-to-bottom and across for outcomes.",
+          "caption2": "Agencies &amp; Apps offer blocks of marketing services and tools. We connect these top-to-bottom and across for outcomes.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -1875,6 +1867,14 @@
           "title6": "HOST ANYWHERE",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-2a",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"cmo-services.html\" data-toolbar=\"-mbrBtnMove\">CMO SERVICES</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"marketing-as-a-service.html\" data-toolbar=\"-mbrBtnMove\">MARKETING-AS-A-SERVICE</a>"
         },
         {
           "_tags": [
@@ -1981,7 +1981,7 @@
     "about_people.html": {
       "settings": {
         "title": "ABOUT > People",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -2000,8 +2000,8 @@
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
               "color": "#ffffff",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-family": "'Roboto', sans-serif"
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
             },
             ".navbar, .dropdown-menu": {
               "background": "#212121"
@@ -2125,7 +2125,8 @@
               "text-align": "left"
             },
             ".mbr-section__col .mbr-header__text": {
-              "color": "#212121"
+              "color": "#212121",
+              "font-size": "15px"
             },
             ".mbr-section-title .mbr-header__text": {
               "color": "#212121"
@@ -2218,8 +2219,8 @@
               "size": 0
             }
           },
-          "title3": "HEAD OF MARKETING<br>Infosys - Manufacturing, Engineering Services, Mobility",
-          "caption3": "Repositioned $500M Engineering unit with unified value proposition, established the $50M Mobility “startup” as market contender, led combined business into new markets.<br>Led Manufacturing unit to shift from geography to industry go-to-market and grow 2X to $1B+ in 3 years. Built global team (US, UK, India) to lead key segments and penetrate new markets.",
+          "title3": "HEAD OF MARKETING<br>Infosys",
+          "caption3": "Repositioned $500M Engineering unit with unified value proposition, established the $50M Mobility \"startup\" as market contender.<br>Led Manufacturing unit to shift from geography to industry go-to-market and grow 2X to $1B+ in 3 years. Built global team (US, UK, India) to lead key segments and penetrate new markets.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -2238,8 +2239,8 @@
               "size": 0
             }
           },
-          "title4": "SENIOR MARKETING MANAGER<br>I.B.M",
-          "caption4": "Grew brand and services for $1B+ Life Sciences unit by shifting positioning from technology to business.<br>Led market/competitive analysis and strategy to deploy corporate brand initiatives, incubate/ introduce IT &amp; business solutions, guide business unit &amp; country marketing programs.<br>Management Consultant - high-tech and government clients.",
+          "title4": "SR MARKETING MANAGER<br>IBM Corp",
+          "caption4": "Grew brand and services for $1B+ Life Sciences unit by shifting positioning from technology to business.<br>Led market/competitive analysis and strategy to deploy corporate brand initiatives, introduce IT &amp; business solutions, guide unit &amp; country marketing programs.<br>Management Consultant - high-tech and government clients.",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -2391,7 +2392,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 11
+        "order": 10
       },
       "components": [
         {
@@ -2601,7 +2602,7 @@
     "non-profits.html": {
       "settings": {
         "title": "CLIENTS > Non-Profits",
-        "order": 9
+        "order": 8
       },
       "components": [
         {
@@ -2762,7 +2763,7 @@
           "title": "CMO SERVICES",
           "meta": "By John Smith posted July 30, 2015",
           "text": "With mission on the line, you need sophisticated marketing to fulfill. Limited budgets or staff? Get a CMO partner on-demand to build your brand, promote your cause, raise funds, and show stewardship! We will work with you side-by-side at every stage:<div><b>Start</b> &gt; map growth areas to markets and programs to set strategy, develop brand and market positioning, plan marketing mix and scorecard, create/audit brand presence, assess program-market fit</div><div><b>Scale</b> &gt; launch programs, expand markets, run brand and fundraising campaigns</div><div><b>Sustain</b> &gt; engage constituents, run stewardship programs, generate ambassadors, capture donor voice into programs and outreach</div>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"cmo-services.html\" data-toolbar=\"-mbrBtnMove\">CMO SERVICES IN-DEPTH</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"cmo-services.html\" data-toolbar=\"-mbrBtnMove\">SEE CMO SERVICES</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -2830,7 +2831,7 @@
           "title": "MARKETING-AS-A-SERVICE",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Constituents are ready for your programs. Do you have know-how and resources to convert? Go from strategy to execution to tap the right digital &amp; offline channels with content and campaigns that engage constituents! We will provide full-service to integrate every step:</p><p><b>Strategize</b> &gt; <i>align</i> markets/programs, <i>build</i> value propositions and messages</p><p><b>Plan</b> &gt; <i>create</i> content and campaign tactics, <i>decide</i> budgets and metrics</p><p><b>Orchestrate</b> &gt; <i>engage</i> constituents via digital and offline campaigns</p><p><b>Track</b> &gt; <i>follow</i> execution and performance with actionable analytics</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"marketing-as-a-service.html\" data-toolbar=\"-mbrBtnMove\">MARKETING-AS-A-SERVICE IN-DEPTH</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"marketing-as-a-service.html\" data-toolbar=\"-mbrBtnMove\">SEE MARKETING-AS-A-SERVICE</a>"
         },
         {
           "_tags": [
@@ -2937,7 +2938,7 @@
     "startups.html": {
       "settings": {
         "title": "CLIENTS > Startups",
-        "order": 8
+        "order": 7
       },
       "components": [
         {
@@ -3012,7 +3013,7 @@
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/small-business-startup.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/small-business-startup-resize.jpg",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -3098,7 +3099,7 @@
           "title": "CMO SERVICES",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>With growth on the line, you need sophisticated marketing to deliver. Limited budgets or marketing team? Get a CMO partner on-demand to build your brand, establish market position, generate sales, and engage customers! We will work with you side-by-side at every stage:</p><p><b>Start</b> &gt; map growth levers to markets and products to set strategy, develop brand and market positioning, plan marketing mix and scorecard, create/audit brand presence, assess product-market fit</p><p><b>Scale</b> &gt; launch products, expand markets, run brand and sales campaigns</p><p><b>Sustain</b> &gt; engage customers, run retention programs, generate advocates, capture customer voice into products and go-to-market</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"cmo-services.html\" data-toolbar=\"-mbrBtnMove\">CMO SERVICES IN-DEPTH</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"cmo-services.html\" data-toolbar=\"-mbrBtnMove\">SEE CMO SERVICES</a>"
         },
         {
           "_inherit": "msg-box5",
@@ -3166,7 +3167,7 @@
           "title": "MARKETING-AS-A-SERVICE",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>Market is ready for your products. Do you have marketing know-how and resources to convert? Go from strategy to execution to tap the right digital &amp; offline channels with content and campaigns that engage customers! We will provide full-service to integrate every step:</p><p><b>Strategize</b> &gt; <i>align</i> markets/products, <i>build</i> value propositions and messages</p><p><b>Plan</b> &gt; <i>create</i> content and campaign tactics, <i>decide</i> budgets and metrics</p><p><b>Orchestrate</b> &gt; <i>engage</i> customers via digital and offline campaigns</p><p><b>Track</b> &gt; <i>follow</i> execution and performance with actionable analytics</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-info\" href=\"marketing-as-a-service.html\" data-toolbar=\"-mbrBtnMove\">MARKETING-AS-A-SERVICE IN-DEPTH</a>"
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"marketing-as-a-service.html\" data-toolbar=\"-mbrBtnMove\">SEE MARKETING-AS-A-SERVICE</a>"
         },
         {
           "_tags": [
@@ -3267,6 +3268,179 @@
             "overlayColor": "#444444"
           },
           "text": "©&nbsp;2016 SAASIFY LLC. All rights reserved."
+        }
+      ]
+    },
+    "build-brand.html": {
+      "settings": {
+        "title": "CMO SERVICES > ",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "dropdown-menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#212121"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#171717"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "dropdown-menu-2btn",
+          "_anchor": "dropdown-menu-2btn-2c",
+          "_params": {
+            "bgColor": "#212121",
+            "fontSize": "1",
+            "fontName": {
+              "name": "Open Sans",
+              "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "css": "'Open Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/saasify-name-crop-464x128-17.png",
+              "class": "",
+              "height": 128,
+              "alt": "SaaSify.io",
+              "link": "index.html",
+              "title": "Marketing > Start | Scale | Sustain",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Marketing</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"about.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about_purpose.html\">Purpose</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"about_people.html\">People</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SOLUTIONS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cmo-services.html\">CMO Services</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"marketing-as-a-service.html\">Marketing-As-A-Service</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">CLIENTS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"startups.html\">Startups</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"non-profits.html\">Non-Profits</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">FOR WINDOWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"https://mobirise.com/\">FOR MAC</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "text-align": "left",
+              "color": "#212121"
+            }
+          },
+          "_anchor": "social-buttons2-2h",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#bdbdbd",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "CONNECT WITH US",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>        <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-linkedin\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/SaaSifyIO\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-linkedin\"></i></a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "STRONG": {
+              "color": "#bdbdbd"
+            },
+            "P": {
+              "color": "#bdbdbd"
+            }
+          },
+          "_anchor": "contacts1-2i",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#212121",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/saasify-name-crop-265x72-79.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "index.html",
+              "alt": "SaaSify.io",
+              "title": "Marketing > Start | Scale | Sustain",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>12506 Fox View Way<br>Reston, VA 20191",
+          "text2": "<strong>CONTACTS</strong><br>\nEmail: hello@saasify.io<br>\nPhone: +1 (703) 597-3433<br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Terms of Use<a class=\"mbr-contacts__link text-gray\" href=\"https://mobirise.com/\"></a></li><li><a href=\"privacy.html\">Privacy Policy</a><a href=\"https://mobirise.com/mobirise-free-win.zip\" class=\"text-gray\"></a></li></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#bdbdbd",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "footer1-2j",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#212121",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "©&nbsp;2016 SAASIFY LLC. All rights reserved.<br>"
         }
       ]
     }
